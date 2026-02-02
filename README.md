@@ -98,9 +98,13 @@ What Should Go Inside user.repository.ts?
 ONLY database operations:
 
 ✅ create
+
 ✅ find
+
 ✅ update
+
 ✅ delete
+
 ✅ complex queries
 
 NO business logic.
